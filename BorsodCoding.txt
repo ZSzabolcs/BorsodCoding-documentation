@@ -1,0 +1,37 @@
+For the potato
+
+Projektünk egy 2D-s platformer játék, ami a rage game kategóriába esik. A története a következő: Volt egyszer egy troll, akinek a legjobb barátja egy krumpli volt, akit Kolompérnak hívtak. Az orosz katonák ellopták ezt a krumplit, hogy vodkát csináljanak belőle. A troll ezt nem engedhette meg, ezért elindult kiszabadítani.
+
+Irányítás:
+
+W - ugrás felfelé
+A - balra haladás
+D - jobbra haladás
+
+Python nyelven, Pygame engine-ben készült.
+
+A pályák mátrixokban vannak eltárolva, a program végigmegy az aktuális mátrixon, amiben minden számhoz egy adott block, entitás vagy a játékos van rendelve, ezt értelmezi, és megvalósítja.
+
+A játék elérhető magyar és angol nyelven is.
+
+
+Borsod Coding
+
+A nevünk egy emlékeztető arra, honnan jöttünk és milyen utat jártunk be ezidáig. Emellett szerettünk volna valami vállalatos hangzású nevet.
+
+Hosszútávon vállalkozást szeretnénk ebből a dologból létrehozni, játékunkat piacra akarjuk dobni.
+
+Feladatok elosztása:
+
+Zelenák Szabolcs:
+
+- Ötletgazda
+- Tervező
+- Dokumentációfelelős
+- Github
+
+Csiger Imre Krisztián:
+
+- Háttérfolyamatokért felelős programozó
+- Trello
+- Váz szerkezetrajz
